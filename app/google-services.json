@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265479101351",
+    "firebase_url": "https://passmanager-1ca4a.firebaseio.com",
+    "project_id": "passmanager-1ca4a",
+    "storage_bucket": "passmanager-1ca4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265479101351:android:8a96b17f73ca90fa",
+        "android_client_info": {
+          "package_name": "com.example.vicky.passmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265479101351-4p2nia7oc9fvmm6o9ge2lgq9416u25ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vicky.passmanager",
+            "certificate_hash": "14CCF9406F6928D8821ADEFF1D2A61A3EA08835F"
+          }
+        },
+        {
+          "client_id": "265479101351-upajfcllkg8en434tt1d62ru73h9uv5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3E78GUGGts4KQ3cFjwnuKlnEtNjpLo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265479101351-upajfcllkg8en434tt1d62ru73h9uv5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
